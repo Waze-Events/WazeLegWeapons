@@ -1,0 +1,9 @@
+name: WazeLegWeapons
+version: '0.1'
+main: org.TBCreates.wazeLegWeapons.WazeLegWeapons
+api-version: '1.21'
+prefix: [ TBCreates ]
+load: STARTUP
+authors: [ thebestharrison ]
+description: one of thebestharrison's plugins :)
+website: https://discord.gg/zyvDgFQk
