@@ -1,1 +1,1 @@
-# WazeLegWeapons plugin
+# WazeLegWeapons Plugin
